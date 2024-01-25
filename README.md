@@ -4,4 +4,4 @@
 
 - *📚 Cursando Análise e desenvolvimento de sistemas.*
 - *👨🏽‍💻 No momento estou estudando as tecnologías do Back-End.*
-- *</> Pretendo me tornar um Dev FullStack.*
+
